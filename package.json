@@ -2,6 +2,7 @@
   "name": "react-native-smartconfig",
   "version": "0.2.2",
   "description": "react-native ESP8266 smartconfig module",
+  "homepage": "https://github.com/clowenhg/react-native-ios-smartconfig.git",
   "nativePackage": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
